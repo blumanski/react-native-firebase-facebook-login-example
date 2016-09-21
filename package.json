@@ -1,0 +1,18 @@
+{
+  "name": "kappi",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "firebase": "^3.4.0",
+    "lodash": "^4.16.0",
+    "react": "15.3.1",
+    "react-native": "0.33.0",
+    "react-native-drawer-layout": "^1.1.0",
+    "react-native-facebook-login": "^1.4.0",
+    "react-native-firestack": "^2.2.3",
+    "react-native-vector-icons": "^2.1.0"
+  }
+}

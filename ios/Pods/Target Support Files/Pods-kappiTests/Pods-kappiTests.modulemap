@@ -1,0 +1,6 @@
+framework module Pods_kappiTests {
+  umbrella header "Pods-kappiTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
