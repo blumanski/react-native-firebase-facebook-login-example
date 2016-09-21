@@ -4,7 +4,9 @@ Example on how to implement react-native with firebase/firestack and facebook lo
 Used components
 
 https://github.com/iodine/react-native-drawer-layout
+
 https://github.com/fullstackreact/react-native-firestack
+
 https://github.com/magus/react-native-facebook-login
 
 One could clone this repo and get it running by changing a the service files.
