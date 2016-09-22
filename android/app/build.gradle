@@ -55,6 +55,7 @@ android {
 }
 
 dependencies {
+    // https://developers.google.com/android/guides/setup
     compile 'com.google.android.gms:play-services-gcm:9.4.0'
     compile 'com.google.android.gms:play-services-vision:9.4.0'
     compile 'com.google.android.gms:play-services-analytics:9.4.0'
