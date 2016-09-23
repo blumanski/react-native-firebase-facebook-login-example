@@ -22,7 +22,7 @@ I got this running on the day of the Android Studio update to 2.2
 Good luck and keep it up
 
 ## Notes to myself for IOS
-1. Bolts error -> GoogleService.plist, drag it into xcode | make sure pod 'Bolts' is in pod file
+1. Bolts error -> GoogleService.plist, drag it into xcode | make sure pod 'Bolts' is in pod file. The Bolts framework error can get fixed in some cases by upgrading react-native "react-native upgrade" but read carefully and do NOT overwrite important files which were modified such as the build.graddle and the MainJApplication and MainActivity and plist files.
 2. Firebase pod files -> use pod 'Firebase/Auth' pod 'Firebase/Database' pod 'Firebase/Core' instead of just pod 'Firebase'
 3. Enable Sharing Keychain in Capabilities in Xcode (Target -> Capabilities -> Keychain Groups to On)
 
