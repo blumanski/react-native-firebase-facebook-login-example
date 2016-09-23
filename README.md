@@ -21,7 +21,7 @@ One is jumping from one error to another, the more interesting files in this rep
 I got this running on the day of the Android Studio update to 2.2
 Good luck and keep it up
 
-## Notes to myself
+## Notes to myself for IOS
 1. Bolts error -> GoogleService.plist, drag it into xcode | make sure pod 'Bolts' is in pod file
 2. Firebase pod files -> use pod 'Firebase/Auth' pod 'Firebase/Database' pod 'Firebase/Core' instead of just pod 'Firebase'
 3. Enable Sharing Keychain in Capabilities in Xcode (Target -> Capabilities -> Keychain Groups to On)
